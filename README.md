@@ -1,6 +1,6 @@
 # Azure Blob to Azure SQL Database using Azure Functions
 
-This repository hosts a sample application and related resources demonstrating the use of Azure Functions for transferring data from Azure Blob Storage to an Azure SQL Database. The sample is authored by Chris Ayers, Senior Customer Engineer at Microsoft.
+This repository hosts a sample application and related resources demonstrating the use of Azure Functions for transferring data from Azure Blob Storage to an Azure SQL Database. The sample is authored by Chris Ayers, Principal Software Engineer at Microsoft.
 
 ## Overview
 
